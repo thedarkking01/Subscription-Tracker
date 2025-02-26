@@ -1,9 +1,5 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/rOpEN1JDaD0?si=WfOjLV57WfR9x6QK" target="_blank">
-      <img src="https://i.ibb.co/xtTbHkfs/Readme-Thumbnail.png" alt="Project Banner">
-    </a>
-  <br />
+
   
   <div>
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" />
@@ -22,13 +18,8 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
-## 🚨 Tutorial
 
-This repository contains the code corresponding to a step-by-step tutorial available on YouTube.
-
-<a href="https://youtu.be/rOpEN1JDaD0?si=WfOjLV57WfR9x6QK" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## 🤖 Introduction
 
@@ -73,7 +64,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/adrianhajdin/subscription-tracker-api.git
+git clone https://github.com/thedarkking01/Subscription-Tracker.git
 cd subscription-tracker-api
 ```
 
@@ -152,9 +143,5 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
 
 ## 🚀 More
 
-Enhance your skills with advanced development courses.
 
-<a href="https://jsmastery.pro/next15" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
-</a>
 
