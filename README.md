@@ -129,6 +129,7 @@ Open [http://localhost:5500](http://localhost:5500) in your browser or any HTTP 
   "category": "Entertainment",
   "startDate": "2025-01-20T00:00:00.000Z",
   "paymentMethod": "Credit Card"
+
 }
 ```
 
