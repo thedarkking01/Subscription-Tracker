@@ -49,7 +49,7 @@ Authenticate users using JWTs, connect a database, create models and schemas, an
 
 and many more, including code architecture and reusability.
 
-## 👽 WEBSITE DIAGRAM
+## 👽 API WORKFLOW
 ![API WORKFLOW](https://github.com/user-attachments/assets/d8e61c06-5306-40d0-9166-6f197b0e2485)
 
 
